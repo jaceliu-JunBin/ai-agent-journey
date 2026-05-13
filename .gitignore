@@ -39,3 +39,6 @@ data/cache/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# NOTE: uv.lock SHOULD be committed (like package-lock.json / poetry.lock).
+# Do not add it to .gitignore.
